@@ -3,6 +3,8 @@ Simple JavaScript Mouse Tracking based on inbuilt libs to make it as lightweight
 
 A Pen created at CodePen.io. You can find this one at https://codepen.io/Vinnn/pen/WgNLMV.
 
+![alt-text](https://raw.githubusercontent.com/vp93/Simple-Javscript-Mouse-Tracking/master/upsych.gif)
+
  I wanted to make something a little different from the regular UI stuff I do, and had this little idea while sipping tea this morning. 
 
 Using mouse tracking for the eyeballs, and corresponding messages, to create an illusion of conversing with something inside your computer screen. I am not responsible if you start feeling sorry for him now
